@@ -148,3 +148,12 @@ nav {
     font-size: 18px;
     margin: 10px 0;
 }
+.cta-btn {
+    color: #fff;
+    background: #ff5361;
+    text-decoration: none;
+    padding: 12px 30px;
+    border-radius: 8px;
+    margin-top: 20px;
+    display: inline-block;
+}
